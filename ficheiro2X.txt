@@ -1,4 +1,9 @@
 "Contido 2-X"
 "Contido engadido"   
+ HEAD
 "OUTRO Contido engadido" 
 "Contido conflictivo desde Checkout" 
+
+"OUTRO Contido engadido"  
+"OUTRO Contido engadido" 
+ a9dba0aa55b12e924ae2ace2af350e135504f23e
